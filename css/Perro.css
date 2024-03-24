@@ -1,0 +1,44 @@
+h1 {
+
+    color: rgb(23, 61, 231);
+
+
+}
+
+body {
+
+    background-color: darkcyan;
+
+}
+
+p {
+
+    color: rgb(55, 8, 109);
+
+
+}
+
+li {
+
+    color: crimson;
+}
+
+a {
+
+    color: crimson;
+}
+
+h3 {
+
+    color: rgb(81, 8, 83);
+}
+
+table {
+    background-color: rgb(211, 16, 16);
+    color: rgb(12, 12, 170);
+}
+
+tr {
+
+    background-color: rgb(116, 233, 62);
+}
